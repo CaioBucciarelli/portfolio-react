@@ -94,6 +94,10 @@ img {
   align-items: center;
 }
 
+.header-logo {
+  background: transparent !important;
+}
+
 .header-menu {
   display: flex;
   flex-wrap: wrap;
@@ -502,7 +506,7 @@ img {
   grid-column: 1 / -1;
 }
 .container-pages-detalhada {
-  padding: 80px 0px;
+  padding: 80px 12px;
   max-width: 1200px;
   margin: 0 auto;
   display: grid;
@@ -564,6 +568,21 @@ img {
   }
   .contato-links ul {
     justify-content: start;
+  }
+  .container-pages-detalhada {
+    grid-template-columns: 1fr;
+  }
+  .container-pages-detalhada ul {
+    margin-top: 20px;
+    grid-column: 1 / -1;
+    grid-row: 3 / 4;
+    justify-content: center;
+  }
+  .container-pages-detalhada h2 {
+    grid-column: 1 / -1;
+  }
+  .container-pages-detalhada p {
+    grid-column: 1 / -1;
   }
 }
 .slideshow-container {
