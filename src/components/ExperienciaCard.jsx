@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 function ExperienciaCard({ id, titulo, funcao, descricao, habilidades,}) {
   return (
     <li className="item-lista-empresa">
@@ -11,7 +13,7 @@ function ExperienciaCard({ id, titulo, funcao, descricao, habilidades,}) {
           ))}
         </ul>
       </div>
-      <a className="link-empresa" href={`experiencia/${id}`}>Saiba Mais</a>
+      <Link className="link-empresa" href={`experiencia/${id}`}>Saiba Mais</Link>
     </li>
   )
 }
