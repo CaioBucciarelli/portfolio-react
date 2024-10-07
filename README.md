@@ -1,8 +1,18 @@
-# React + Vite
+#Meu Portfólio
+Este é o repositório do meu portfólio pessoal, desenvolvido utilizando React com Vite como bundler. O foco deste projeto é apresentar meus principais projetos e habilidades de forma dinâmica e interativa. Algumas das funcionalidades principais incluem rotas dinâmicas, componentes reutilizáveis com props, e estilização eficiente utilizando Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Funcionalidades
+1. Rotas Dinâmicas
+As páginas do portfólio são gerenciadas através de rotas dinâmicas usando o React Router. Isso permite uma navegação fluida e eficiente entre diferentes seções do site, como "Sobre Mim", "Projetos", e "Contato". Além disso, cada projeto tem sua própria página dedicada, gerada de forma dinâmica com base em dados passados via rotas.
 
-Currently, two official plugins are available:
+2. Props e Componentização
+Os componentes do portfólio são altamente reutilizáveis e configurados para receber dados via props, tornando o código mais modular e fácil de manter. A renderização de projetos, por exemplo, utiliza componentes que recebem informações como título, descrição e tecnologias utilizadas diretamente das props.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Estilização com Tailwind CSS
+Toda a interface do portfólio foi estilizada utilizando Tailwind CSS, um framework de utilitários que torna a escrita de estilos rápida e consistente. Isso garante um design responsivo, moderno, e com boa performance sem a necessidade de escrever CSS adicional.
+
+Tecnologias Utilizadas
+React: Biblioteca JavaScript para construção de interfaces de usuário.
+Vite: Ferramenta de build rápida e otimizada para desenvolvimento de front-end.
+React Router: Para gerenciar as rotas dinâmicas entre páginas.
+Tailwind CSS: Framework de CSS utilitário para estilização eficiente e responsiva.
