@@ -1,6 +1,6 @@
 [
   {
-    "id": "agra_company",
+    "id": "1",
     "titulo": "AGRA Company",
     "funcao": "Desenvolvedor Júnior",
     "descricao": "Esse é o site do meu projeto TCC sobre agronegócio, o site é apenas institucional. Foi feito em React com Vite.",
@@ -30,7 +30,7 @@
     "link": "https://agra1.vercel.app/"
   },
   {
-    "id": "aquarell_clinic",
+    "id": "2",
     "titulo": "Aquarell Clinic",
     "funcao": "Desenvolvedor Júnior",
     "descricao": "Na Clinica Aquarell, usei o Wordpress como CMS para fazer de uma forma mais automática a criação das páginas de cada serviço.",
@@ -57,7 +57,7 @@
     "link": "https://clinicaquarell.com/"
   },
   {
-    "id": "bikcraft",
+    "id": "3",
     "titulo": "Bikcraft",
     "funcao": "Desenvolvedor Júnior",
     "descricao": "No projeto Bikcraft eu trabalhei no desenvolvimento completo do HTML, CSS e JavaScript do site. Além disso, também prestei consultoria no Design.",
@@ -84,7 +84,7 @@
     "link": "https://caiobucciarelli.github.io/bikcraft/"
   },
   {
-    "id": "wildbeast",
+    "id": "4",
     "titulo": "Wildbeast",
     "funcao": "Desenvolvedor Júnior",
     "descricao": "No Wildbeast eu usei o GRID Layout para o site todo, para entender melhor como ele funciona. O site foi feito com o guia de um curso.",
@@ -108,7 +108,7 @@
     "link": "https://caiobucciarelli.github.io/Wildbeast/"
   },
   {
-    "id": "jim_burger",
+    "id": "5",
     "titulo": "Jim Burger",
     "funcao": "Desenvolvedor Júnior",
     "descricao": "Jim Burger é uma hamburgueria fictícia. Foi um projeto planejado e desenvolvido em aula. Todo o projeto foi feito do zero.",
