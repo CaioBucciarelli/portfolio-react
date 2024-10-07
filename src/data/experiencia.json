@@ -1,0 +1,128 @@
+[
+  {
+    "id": "agra_company",
+    "titulo": "AGRA Company",
+    "funcao": "Desenvolvedor Júnior",
+    "descricao": "Esse é o site do meu projeto TCC sobre agronegócio, o site é apenas institucional. Foi feito em React com Vite.",
+    "habilidades": [
+      {
+        "nome": "React"
+      },
+      {
+        "nome": "Vite"
+      },
+      {
+        "nome": "Typescript"
+      },
+      {
+        "nome": "CSS"
+      },
+      {
+        "nome": "UX Design"
+      },
+      {
+        "nome": "UI Design"
+      },
+      {
+        "nome": "Responsivo"
+      }
+    ],
+    "link": "https://agra1.vercel.app/"
+  },
+  {
+    "id": "aquarell_clinic",
+    "titulo": "Aquarell Clinic",
+    "funcao": "Desenvolvedor Júnior",
+    "descricao": "Na Clinica Aquarell, usei o Wordpress como CMS para fazer de uma forma mais automática a criação das páginas de cada serviço.",
+    "habilidades": [
+      {
+        "nome": "Wordpress como CMS"
+      },
+      {
+        "nome": "PHP"
+      },
+      {
+        "nome": "CSS"
+      },
+      {
+        "nome": "UX Design"
+      },
+      {
+        "nome": "UI Design"
+      },
+      {
+        "nome": "Responsivo"
+      }
+    ],
+    "link": "https://clinicaquarell.com/"
+  },
+  {
+    "id": "bikcraft",
+    "titulo": "Bikcraft",
+    "funcao": "Desenvolvedor Júnior",
+    "descricao": "No projeto Bikcraft eu trabalhei no desenvolvimento completo do HTML, CSS e JavaScript do site. Além disso, também prestei consultoria no Design.",
+    "habilidades": [
+      {
+        "nome": "HTML"
+      },
+      {
+        "nome": "CSS"
+      },
+      {
+        "nome": "JavaScript"
+      },
+      {
+        "nome": "UX Design"
+      },
+      {
+        "nome": "UI Design"
+      },
+      {
+        "nome": "Responsivo"
+      }
+    ],
+    "link": "https://caiobucciarelli.github.io/bikcraft/"
+  },
+  {
+    "id": "wildbeast",
+    "titulo": "Wildbeast",
+    "funcao": "Desenvolvedor Júnior",
+    "descricao": "No Wildbeast eu usei o GRID Layout para o site todo, para entender melhor como ele funciona. O site foi feito com o guia de um curso.",
+    "habilidades": [
+      {
+        "nome": "HTML"
+      },
+      {
+        "nome": "CSS"
+      },
+      {
+        "nome": "GRID Layout"
+      },
+      {
+        "nome": "Flexbox"
+      },
+      {
+        "nome": "Responsivo"
+      }
+    ],
+    "link": "https://caiobucciarelli.github.io/Wildbeast/"
+  },
+  {
+    "id": "jim_burger",
+    "titulo": "Jim Burger",
+    "funcao": "Desenvolvedor Júnior",
+    "descricao": "Jim Burger é uma hamburgueria fictícia. Foi um projeto planejado e desenvolvido em aula. Todo o projeto foi feito do zero.",
+    "habilidades": [
+      {
+        "nome": "HTML"
+      },
+      {
+        "nome": "CSS"
+      },
+      {
+        "nome": "Responsivo"
+      }
+    ],
+    "link": "https://caiobucciarelli.github.io/JIM-Burger/"
+  }
+]
